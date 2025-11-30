@@ -1,0 +1,22 @@
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.webm
+*.m4v
+
+# Video project files (editing software)
+*.prproj      # Premiere Pro
+*.aep         # After Effects
+*.fcp         # Final Cut Pro
+*.drp         # DaVinci Resolve
+*.veg         # Vegas Pro
+
+# Video cache and temporary files
+**/cache/
+**/temp/
+**/tmp/
+**/*.tmp
