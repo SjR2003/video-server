@@ -1,6 +1,13 @@
 # RTSP Video Streaming Server
 
-![demo](https://github.com/user-attachments/assets/9931d552-5196-4dc4-b80c-a0b4cbd54bad)
+<video src="https://github.com/user-attachments/assets/9931d552-5196-4dc4-b80c-a0b4cbd54bad" 
+       width="640" 
+       autoplay 
+       loop 
+       muted 
+       playsinline>
+</video>
+
 
 A lightweight Dockerized solution for generating **live RTSP streams** from local video files using **FFmpeg** + **MediaMTX**
 
