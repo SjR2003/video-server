@@ -10,7 +10,3 @@ streams:
   - id: cam3
     file: /videos/video_03.avi
     loop: true
-
-  - id: cam4
-    file: /videos/video_04.avi
-    loop: true
